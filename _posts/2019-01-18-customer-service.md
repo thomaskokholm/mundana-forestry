@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Jekyll?t
+title: What is Jekyll?
 author: jane
 categories:
 - Jekyll
